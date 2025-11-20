@@ -16,3 +16,6 @@ return (
 export default App; 
 6. npm start 
 7. npm run build 
+
+if error, install nodejs
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
