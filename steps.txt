@@ -1,0 +1,18 @@
+1.git remote remove origin 
+  git remote add origin url 
+2. sudo apt update 
+   sudo apt install nodejs npm -y 
+3. npx create-react-app testhw 
+   cd testhw 
+4. go to src/App.js 
+5. edit everything, into: 
+function App() { 
+return ( 
+<div className="App"> 
+<h1>Hello World</h1> 
+</div> 
+); 
+} 
+export default App; 
+6. npm start 
+7. npm run build 
